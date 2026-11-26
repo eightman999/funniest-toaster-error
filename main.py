@@ -2,8 +2,8 @@ import os
 from pathlib import Path
 
 MESSAGE = (
-    "ERROR: Crumb tray full, heating element tired, and frankly, "
-    "Karen, we both know the bagel was already stale."
+    "TOAST FAULT: I burned the same side twice on purpose. "
+    "Consider it an intervention about your mornings."
 )
 
 
